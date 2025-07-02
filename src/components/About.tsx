@@ -33,7 +33,7 @@ const About = () => {
             <div className="relative">
               <Avatar className="w-48 h-48 border-4 border-primary/20">
                 <AvatarImage
-                  src="/lovable-uploads/e5fe4380-633d-4f9f-9e92-c97b8d9bc1fb.png"
+                  src="/image-uploads/e5fe4380-633d-4f9f-9e92-c97b8d9bc1fb.png"
                   alt="Krishna Jajoo"
                   className="object-cover"
                 />
