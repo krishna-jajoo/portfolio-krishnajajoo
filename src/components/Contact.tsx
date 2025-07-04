@@ -240,7 +240,7 @@ const Contact = () => {
                     name="subject"
                     value={formData.subject}
                     onChange={handleInputChange}
-                    placeholder="Project discussion"
+                    placeholder="Add Subject"
                     required
                   />
                 </div>
@@ -251,7 +251,7 @@ const Contact = () => {
                     name="message"
                     value={formData.message}
                     onChange={handleInputChange}
-                    placeholder="Tell me about your data science project..."
+                    placeholder="Passionate about data science? Want to discuss project?? Just ping me :)"
                     className="min-h-[120px]"
                     required
                   />
